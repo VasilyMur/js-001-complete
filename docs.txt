@@ -1,0 +1,16 @@
+// string, number, boolen, undefined, null, object
+
+//1. String
+const name = 'Vasily';
+
+//2. Number
+const age = 10;
+
+//3. Boolean
+const hungry = true;
+
+//4. Undefined
+let dog = 'Tuzik';
+
+//5. Null
+let cat = null;
